@@ -19,6 +19,9 @@ It will print payroll information based on the hourly wage from the first file m
 Output:
 
 *********Payroll Information********
+
 Daniel Katz, $270
+
 John F. Jones, $210
+
 *********End payroll**************
